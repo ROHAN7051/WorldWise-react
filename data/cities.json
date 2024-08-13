@@ -1,123 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
+      "id": "a89b",
+      "cityName": "Les Valls de Valira",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-08-13T10:00:24.335Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "d33f",
-      "cityName": "les Escaldes",
-      "country": "Andorra",
-      "emoji": "🇦🇩",
-      "date": "2024-08-13T06:15:43.774Z",
-      "notes": "TEST",
-      "position": {
-        "lat": "42.50450285299051",
-        "lng": "1.5882184152355099"
+        "lat": "42.47209690919285",
+        "lng": "1.4355082674874666"
       }
     },
     {
-      "id": "4f6b",
-      "cityName": "Idles",
+      "id": "3e59",
+      "cityName": "Llucmajor",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-13T10:01:28.524Z",
+      "notes": "",
+      "position": {
+        "lat": "39.436192999314095",
+        "lng": "2.7994344705141576"
+      }
+    },
+    {
+      "id": "309c",
+      "cityName": "Bouzegza Keddara",
       "country": "Algeria",
       "emoji": "🇩🇿",
-      "date": "2024-08-13T06:19:10.184Z",
-      "notes": "TEST2",
-      "position": {
-        "lat": "27.21555620902969",
-        "lng": "5.676380372173094"
-      }
-    },
-    {
-      "id": "cb5c",
-      "cityName": "Cofrentes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T06:26:41.948Z",
-      "notes": "as",
-      "position": {
-        "lat": "39.21523130910493",
-        "lng": "-1.0283584218510788"
-      }
-    },
-    {
-      "id": "2dc6",
-      "cityName": "Cofrentes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T06:26:41.948Z",
-      "notes": "as",
-      "position": {
-        "lat": "39.21523130910493",
-        "lng": "-1.0283584218510788"
-      }
-    },
-    {
-      "id": "c3a3",
-      "cityName": "Cofrentes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T06:26:41.948Z",
-      "notes": "as",
-      "position": {
-        "lat": "39.21523130910493",
-        "lng": "-1.0283584218510788"
-      }
-    },
-    {
-      "id": "c644",
-      "cityName": "Ait Malek",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2024-08-13T06:27:51.078Z",
+      "date": "2024-08-13T10:01:31.560Z",
       "notes": "",
       "position": {
-        "lat": "33.93347012120797",
-        "lng": "-6.482834020574742"
-      }
-    },
-    {
-      "id": "983f",
-      "cityName": "Campos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T06:30:09.937Z",
-      "notes": "",
-      "position": {
-        "lat": "39.43156878302125",
-        "lng": "3.085418996955239"
+        "lat": "36.686041276581925",
+        "lng": "3.477239169305797"
       }
     }
   ]
